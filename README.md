@@ -1,0 +1,1 @@
+ eu divido apartamento com mais 2 pessoas, e criei uma automação que é responsável por falar o que cada um tem que limpar cada semana, rotacionar as tarefas a cada 7 dias, e enviar um e-mail para todos os moradores com essas informações. 
